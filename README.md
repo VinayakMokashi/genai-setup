@@ -1,6 +1,6 @@
-# GenAI Course — Setup
+# GenAI Setup
 
-This folder contains the initial setup for the GenAI course, including a Groq API connection test and a simple Gradio chatbot powered by LLaMA.
+A Groq API connection test and a simple Gradio chatbot powered by LLaMA.
 
 ## Prerequisites
 
